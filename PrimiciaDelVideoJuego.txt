@@ -1,0 +1,33 @@
+Proyecto Hackathon: El Pacto del Tío
+
+Sinopsis del Juego
+El Pacto del Tío es un Survival Horror en primera persona ambientado en las profundidades de las minas de Potosí, Bolivia. El jugador encarna a un minero atrapado tras un derrumbe que debe sobrevivir a la oscuridad y el aislamiento. No hay combate; la supervivencia depende de gestionar la luz, mantener la cordura masticando hojas de coca, y encontrar el camino de salida realizando las ofrendas correctas a la entidad que gobierna el subsuelo: "El Tío".
+
+Nuestro Objetivo en la Hackathon
+Como equipo de dos personas, nuestro enfoque principal será la Dirección de Arte y la Creación de Elementos 3D. Queremos desarrollar un Prototipo Visual (MVP) que establezca la atmósfera del juego y demuestre la viabilidad estética del proyecto.
+
+Estilo Visual: Low Poly Estilizado
+El juego utilizará una estética Low Poly Estilizada. Buscamos generar terror psicológico e incomodidad a través del minimalismo geométrico, siluetas marcadas, y un contraste dramático entre la oscuridad casi absoluta de la mina y los colores cálidos de los elementos clave de supervivencia y folclore.
+
+Elementos 3D a Desarrollar
+Durante el evento, nos enfocaremos en modelar el siguiente catálogo base de assets:
+
+Avatares:
+
+-El Minero (Modelo de brazos/manos para la vista en primera persona).
+
+-El Tío (La deidad/estatua principal del juego, diseñada para ser imponente y amenazante).
+
+Entorno:
+
+-Kit modular básico de cavernas y túneles mineros apuntalados.
+
+-El Santuario de ofrendas de El Tío.
+
+Props (Objetos):
+
+-Lámpara de carburo (herramienta principal de luz).
+
+-Bolsa de hojas de coca (mecánica de cordura).
+
+-Botella de Singani y cigarros (elementos para la mecánica de ofrendas).
