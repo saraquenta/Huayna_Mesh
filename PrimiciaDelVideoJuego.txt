@@ -14,20 +14,20 @@ Durante el evento, nos enfocaremos en modelar el siguiente catálogo base de ass
 
 Avatares:
 
--El Minero (Modelo de brazos/manos para la vista en primera persona).
+- El Minero (Modelo de brazos/manos para la vista en primera persona).
 
--El Tío (La deidad/estatua principal del juego, diseñada para ser imponente y amenazante).
+- El Tío (La deidad/estatua principal del juego, diseñada para ser imponente y amenazante).
 
 Entorno:
 
--Kit modular básico de cavernas y túneles mineros apuntalados.
+- Kit modular básico de cavernas y túneles mineros apuntalados.
 
--El Santuario de ofrendas de El Tío.
+- El Santuario de ofrendas de El Tío.
 
 Props (Objetos):
 
--Lámpara de carburo (herramienta principal de luz).
+- Lámpara de carburo (herramienta principal de luz).
 
--Bolsa de hojas de coca (mecánica de cordura).
+- Bolsa de hojas de coca (mecánica de cordura).
 
--Botella de Singani y cigarros (elementos para la mecánica de ofrendas).
+- Botella de Singani y cigarros (elementos para la mecánica de ofrendas).

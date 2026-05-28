@@ -1,22 +1,24 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
-  --gold:       #c9a84c;
-  --gold-dim:   #7a5e1f;
-  --gold-glow:  rgba(201,168,76,0.25);
-  --red:        #c0392b;
-  --red-dim:    rgba(192,57,43,0.15);
-  --bg:         #080a0e;
-  --bg-panel:   #0d1018;
-  --bg-card:    #111520;
-  --border:     rgba(201,168,76,0.18);
-  --border-hi:  rgba(201,168,76,0.5);
-  --text:       #e8dcc8;
-  --text-dim:   rgba(232,220,200,0.45);
-  --text-mid:   rgba(232,220,200,0.7);
-  --font-title: 'Bebas Neue', sans-serif;
-  --font-body:  'Exo 2', sans-serif;
-  --font-mono:  'Share Tech Mono', monospace;
+  --gold:        #c9a84c;
+  --gold-dim:    #7a5e1f;
+  --gold-glow:   rgba(201,168,76,0.22);
+  --red:         #8b1a1a;
+  --red-bright:  #c0392b;
+  --red-dim:     rgba(139,26,26,0.18);
+  --bg:          #060608;
+  --bg-panel:    #0a0a0c;
+  --bg-card:     #0e0e12;
+  --border:      rgba(201,168,76,0.14);
+  --border-hi:   rgba(201,168,76,0.38);
+  --text:        #e8dcc8;
+  --text-dim:    rgba(232,220,200,0.38);
+  --text-mid:    rgba(232,220,200,0.65);
+  --font-title:  'Cinzel Decorative', serif;
+  --font-display:'Bebas Neue', sans-serif;
+  --font-body:   'Crimson Text', serif;
+  --font-mono:   'Share Tech Mono', monospace;
 }
 
 html { scroll-behavior: smooth; }
@@ -33,5 +35,4 @@ body {
 ::-webkit-scrollbar { width: 3px; }
 ::-webkit-scrollbar-track { background: var(--bg); }
 ::-webkit-scrollbar-thumb { background: var(--gold-dim); }
-
 ::selection { background: var(--gold-dim); color: var(--gold); }
